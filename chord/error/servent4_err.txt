@@ -1,0 +1,19 @@
+11:27:03 - senderid=62
+RNsi1
+lastReqeust0
+11:28:00 - senderid=78
+RNsi1
+lastReqeust0
+11:28:06 - senderid=78
+RNsi2
+lastReqeust0
+11:28:17 - Couldn't send message: [9|1600|52||PING|1100|35]
+11:28:17 - Connection refused: connect
+11:28:17 - Couldn't send message: [9|1600|54||SUS|1100|35]
+11:28:17 - Connection refused: connect
+11:28:27 - senderid=78
+RNsi3
+lastReqeust0
+11:28:30 - senderid=78
+RNsi4
+lastReqeust0

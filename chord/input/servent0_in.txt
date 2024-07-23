@@ -1,0 +1,8 @@
+pause 50000
+dht_put abc.txt public
+pause 2000
+pause 4000
+pause 4000
+pause 10000
+pause 50000
+stop

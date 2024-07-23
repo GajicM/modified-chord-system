@@ -1,0 +1,8 @@
+pause 20000
+view_files localhost:1600
+pause 10000
+pause 10000
+pause 10000
+pause 50000
+pause 50000
+stop

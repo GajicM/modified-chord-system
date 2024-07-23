@@ -1,0 +1,11 @@
+pause 10000
+dht_put abd.txt private
+pause 4000
+dht_get abd.txt
+pause 6000
+pause 10000
+pause 20000
+pause 10000
+pause 10000
+pause 50000
+stop

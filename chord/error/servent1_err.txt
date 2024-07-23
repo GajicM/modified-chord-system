@@ -1,0 +1,15 @@
+11:27:04 - senderid=9
+RNsi1
+lastReqeust0
+11:28:01 - senderid=78
+RNsi1
+lastReqeust0
+11:28:05 - senderid=78
+RNsi2
+lastReqeust0
+11:28:27 - senderid=78
+RNsi3
+lastReqeust0
+11:28:30 - senderid=78
+RNsi4
+lastReqeust0

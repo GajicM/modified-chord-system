@@ -1,0 +1,9 @@
+pause 55000
+pause 5000
+dht_get abc.txt
+pause 5000
+pause 5000
+remove_file abc.txt
+pause 10000
+pause 50000
+stop
