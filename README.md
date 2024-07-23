@@ -1,6 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_usaz5p7)
-
-# Documentation
+# Modified Chord System Documentation
 
 ## Overview
 - System functions as a chord dht with mutex implementation of Suzuki-Kasami algorithm for mutual exclusivity, and ping-pong messages for fault detection.
